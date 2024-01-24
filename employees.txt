@@ -1,0 +1,3 @@
+7562,Tony Stark,Iron Man,04/01/2023
+4602,Peter Parker,Spider-Man,04/02/2023
+8035,Bruce Banner,The Hulk,09/01/2023
